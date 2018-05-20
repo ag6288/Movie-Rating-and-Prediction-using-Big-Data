@@ -1,0 +1,2 @@
+# Movie-Rating-and-Prediction-using-Big-Data
+The objective of our project is to utilize the IMDB data set to generate Meaningful and Interesting Insights and then create a movie rating model based on average IMDB ratings and a sentiment analysis score of user tweets. And also to create an accurate Machine Learning model to predict average movie ratings based on some key features and make the system scalable by using big data technologies for data processing and then host the system on Google Cloud.
